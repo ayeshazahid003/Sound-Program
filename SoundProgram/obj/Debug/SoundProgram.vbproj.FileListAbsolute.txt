@@ -1,0 +1,13 @@
+C:\Users\dell\Documents\SoundProgram\SoundProgram\bin\Debug\SoundProgram.exe.config
+C:\Users\dell\Documents\SoundProgram\SoundProgram\bin\Debug\SoundProgram.exe
+C:\Users\dell\Documents\SoundProgram\SoundProgram\bin\Debug\SoundProgram.pdb
+C:\Users\dell\Documents\SoundProgram\SoundProgram\bin\Debug\SoundProgram.xml
+C:\Users\dell\Documents\SoundProgram\SoundProgram\obj\Debug\SoundProgram.vbprojAssemblyReference.cache
+C:\Users\dell\Documents\SoundProgram\SoundProgram\obj\Debug\SoundProgram.Form1.resources
+C:\Users\dell\Documents\SoundProgram\SoundProgram\obj\Debug\SoundProgram.Resources.resources
+C:\Users\dell\Documents\SoundProgram\SoundProgram\obj\Debug\SoundProgram.vbproj.GenerateResource.cache
+C:\Users\dell\Documents\SoundProgram\SoundProgram\obj\Debug\SoundProgram.vbproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\SoundProgram\SoundProgram\obj\Debug\SoundProgram.exe
+C:\Users\dell\Documents\SoundProgram\SoundProgram\obj\Debug\SoundProgram.xml
+C:\Users\dell\Documents\SoundProgram\SoundProgram\obj\Debug\SoundProgram.pdb
+C:\Users\dell\Documents\SoundProgram\SoundProgram\obj\Debug\SoundProgram.Form2.resources
